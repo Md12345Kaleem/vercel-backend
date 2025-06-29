@@ -24,6 +24,7 @@ idna==3.7
 incremental==24.7.2
 pillow==10.4.0
 platformdirs==4.3.8
+psycopg2-binary==2.9.10
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.22
